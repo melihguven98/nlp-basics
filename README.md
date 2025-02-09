@@ -1,3 +1,3 @@
 # nlp_basics
 
-pip install textblob spacy gensim transformers tensorflow openai tf-keras
+pip install textblob spacy gensim transformers tensorflow openai tf-keras, torch
